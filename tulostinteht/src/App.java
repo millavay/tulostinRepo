@@ -4,6 +4,7 @@ public class App {
         int luku1 = 8;
         int luku2 = 2;
         int tulo = luku1 * luku2;
+        int summa = luku1 + luku2;
 
         System.out.println("Hei olen tulostin ohjelma");
         System.out.println("Ohjelman tekijä: " + nimi);
